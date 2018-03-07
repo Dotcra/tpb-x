@@ -1,1 +1,1 @@
-# Remove TPB ads and highlight new movie titles.
+## A chrome/firefox extension to remove TPB ads and highlight new movie titles.
