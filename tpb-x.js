@@ -5,7 +5,7 @@ for(var i in a)
 		a[i].style.display="none";
 
 // highlight 2017 new movies
-var year = (new Date()).getFullYear();
+var year = new Date().getFullYear();
 var title = document.getElementsByClassName('detLink');
 for(var i in title){
 	if( title[i].style && title[i].innerHTML.includes(year)){
